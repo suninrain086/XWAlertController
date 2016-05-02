@@ -1,0 +1,5 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'XWAlertControllerDemo', :exclusive => true do
+  pod "XWAlertController", :path => "../"
+end
